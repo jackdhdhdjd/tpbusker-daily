@@ -1,0 +1,25 @@
+{
+  "name": "臺北街頭藝人每日排程 (西門町 ＋ 信義區)",
+  "short_name": "臺北街藝",
+  "description": "雙商圈全覽：即時追蹤臺北市西門徒步區、西門街藝之星、信義徒步區與信義街藝之星演出照片與排程",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

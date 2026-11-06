@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/api/proxy/*"
+  to = "https://tpbusker.gov.taipei/tpbuskerfrontserver/api/Front/:splat"
+  status = 200
+  force = true

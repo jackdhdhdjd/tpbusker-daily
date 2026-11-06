@@ -1,0 +1,33 @@
+name: Auto Update Busker Schedule
+
+on:
+  schedule:
+    # 每天台灣時間凌晨 04:00 (UTC 20:00) 與中午 13:00 (UTC 05:00) 各跑一次
+    - cron: '0 20 * * *'
+    - cron: '0 5 * * *'
+  workflow_dispatch: # 支援在 GitHub 網頁上按一下按鈕手動立即更新
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Busker Scraper
+        run: python scraper.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data.js
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update busker schedule data [skip ci]" && git push)

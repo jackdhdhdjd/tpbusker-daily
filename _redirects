@@ -1,0 +1,1 @@
+/api/proxy/*  https://tpbusker.gov.taipei/tpbuskerfrontserver/api/Front/:splat  200!
