@@ -1,6 +1,6 @@
 window.INITIAL_BUSKER_FULL_DATA = {
   "isSuccess": true,
-  "updatedAt": "2026-11-08T11:47:52.809849",
+  "updatedAt": "2026-11-08T23:23:50.899660",
   "place": {
     "placeRid": "ALL",
     "placeName": "臺北市雙商圈全覽（西門町 ＋ 信義區）",
