@@ -1,6 +1,6 @@
 window.INITIAL_BUSKER_FULL_DATA = {
   "isSuccess": true,
-  "updatedAt": "2026-11-11T00:24:12.720006",
+  "updatedAt": "2026-11-11T12:32:21.859326",
   "place": {
     "placeRid": "ALL",
     "placeName": "臺北市雙商圈全覽（西門町 ＋ 信義區）",
@@ -5156,26 +5156,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20254211445.jpg",
-              "buskerName": "黃悠凡",
-              "buskerStageName": "Caryson",
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,弦樂器類,鍵盤樂器類,",
-              "performanceSubItem": "歌唱,吉他,鍵盤/電子琴,",
-              "project": "",
-              "projectdesc": "電子琴、吉他、歌唱",
-              "performanceContent": "歌唱,吉他,鍵盤/電子琴,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 102,
-              "district": "信義區",
-              "isStar": true,
-              "starBadge": "⭐ 街藝之星"
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": "bkr2025331142545.jpg",
               "buskerName": "曾柏翔",
               "buskerStageName": "鼓手紫毛",
@@ -5185,15 +5165,16 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "爵士鼓演奏、歌唱(伴奏)、吉他",
               "performanceContent": "爵士鼓,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 102,
               "district": "信義區",
               "isStar": true,
-              "starBadge": "⭐ 街藝之星",
-              "waitlistRank": "備1"
-            },
+              "starBadge": "⭐ 街藝之星"
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr2025424145429.jpg",
               "buskerName": "李秋潤",
@@ -5204,14 +5185,14 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "琵琶演奏",
               "performanceContent": "琵琶,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 102,
               "district": "信義區",
               "isStar": true,
               "starBadge": "⭐ 街藝之星",
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -8967,7 +8948,7 @@ window.INITIAL_BUSKER_FULL_DATA = {
       "stats": {
         "totalSlots": 20,
         "totalArtists": 24,
-        "artistsWithPhoto": 23,
+        "artistsWithPhoto": 22,
         "starArtists": 0,
         "ximenArtists": 14,
         "xinyiArtists": 10
@@ -9188,25 +9169,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20261029123000.jpg",
-              "buskerName": "賴以翔",
-              "buskerStageName": "Hanxon",
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,弦樂器類,",
-              "performanceSubItem": "歌唱,吉他,",
-              "project": null,
-              "projectdesc": "歌唱(伴奏帶)、吉他",
-              "performanceContent": "歌唱,吉他,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 104,
-              "district": "信義區",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": null,
               "buskerName": "李亞樵",
               "buskerStageName": "JoeLee",
@@ -9216,14 +9178,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "吉他彈唱",
               "performanceContent": "吉他,歌唱,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 104,
               "district": "信義區",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
+              "isStar": false
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr2025225105118.jpg",
               "buskerName": "陳相合",
@@ -9234,13 +9197,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "吉他、歌唱",
               "performanceContent": "歌唱,吉他,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 104,
               "district": "信義區",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -9596,43 +9559,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr202542113438.jpg",
-              "buskerName": "郭育豪",
-              "buskerStageName": "Coco",
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,弦樂器類,",
-              "performanceSubItem": "歌唱,吉他,",
-              "project": "",
-              "projectdesc": "吉他、歌唱",
-              "performanceContent": "歌唱,吉他,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
-              "headShot": "bkr2024111413748_6.jpg",
-              "buskerName": "郭羿君",
-              "buskerStageName": "羿君",
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,",
-              "performanceSubItem": "歌唱,",
-              "project": "",
-              "projectdesc": "歌唱(伴奏帶)",
-              "performanceContent": "歌唱,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr202584141952.jpg",
               "buskerName": "李俊毅",
               "buskerStageName": "阿部寬",
@@ -9642,15 +9568,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "歌唱",
               "performanceContent": "歌唱,",
-              "bulletinRank": 3,
+              "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備2"
+              "isStar": false
             }
-          ]
+          ],
+          "waitlist": []
         },
         {
           "placeRid": 1,
@@ -10008,25 +9934,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20243200262_6.jpeg",
-              "buskerName": "何闊光",
-              "buskerStageName": null,
-              "performancetype": "Craft Arts",
-              "performanceItem": "其他-工藝藝術類,",
-              "performanceSubItem": "",
-              "project": "永生花、乾燥花之插花設計",
-              "projectdesc": "永生花、乾燥花之插花設計",
-              "performanceContent": "永生花、乾燥花之插花設計",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": "bkr2026112165817.jpg",
               "buskerName": "甯其正",
               "buskerStageName": "甯正在畫畫 NOW",
@@ -10036,14 +9943,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "街頭速畫美學，現場客製肖像漫畫、木雕電烙畫，黏土公仔捏塑、立體工藝。",
               "performanceContent": "素描,燒烙畫,黏土創作,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
+              "isStar": false
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr20260613230001.jpg",
               "buskerName": "于欣佑",
@@ -10054,13 +9962,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
               "projectdesc": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
               "performanceContent": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -11836,24 +11744,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr2025102116136.jpg",
-              "buskerName": "卜元",
-              "buskerStageName": null,
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,弦樂器類,鍵盤樂器類,",
-              "performanceSubItem": "歌唱,吉他,小提琴,鍵盤/電子琴,",
-              "project": "",
-              "projectdesc": "電子琴、小提琴、吉他、歌唱",
-              "performanceContent": "歌唱,吉他,小提琴,鍵盤/電子琴,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 104,
-              "district": "信義區",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr2026123181253.jpg",
               "buskerName": "張宛婷",
               "buskerStageName": "莎莎SaSa",
@@ -11863,13 +11753,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "歌唱",
               "performanceContent": "歌唱,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 104,
               "district": "信義區",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -13833,7 +13723,7 @@ window.INITIAL_BUSKER_FULL_DATA = {
       "stats": {
         "totalSlots": 22,
         "totalArtists": 31,
-        "artistsWithPhoto": 25,
+        "artistsWithPhoto": 26,
         "starArtists": 0,
         "ximenArtists": 14,
         "xinyiArtists": 17
@@ -14616,25 +14506,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": null,
-              "buskerName": "馬路大．以夙",
-              "buskerStageName": "馬哥mago",
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,鍵盤樂器類,",
-              "performanceSubItem": "歌唱,鍵盤/電子琴,",
-              "project": "",
-              "projectdesc": "電子琴自彈自唱、歌唱\n原住民歌謠、流行歌曲、原住民古調新唱",
-              "performanceContent": "歌唱,鍵盤/電子琴,",
-              "bulletinRank": 1,
-              "viewname": 2,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": "bkr2025325104050.jpg",
               "buskerName": "蘇志騫",
               "buskerStageName": "4000",
@@ -14644,14 +14515,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "吉他彈唱",
               "performanceContent": "歌唱,吉他,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
+              "isStar": false
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr202635154626.jpg",
               "buskerName": "王于瑄",
@@ -14662,13 +14534,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "吉他、keyboard、歌唱",
               "performanceContent": "歌唱,吉他,鍵盤/電子琴,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -18996,15 +18868,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "17:30",
           "artists": [
             {
-              "headShot": "bkr20260613230001.jpg",
-              "buskerName": "于欣佑",
-              "buskerStageName": null,
-              "performancetype": "Craft Arts",
-              "performanceItem": "其他-工藝藝術類,",
-              "performanceSubItem": "",
-              "project": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "projectdesc": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "performanceContent": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
+              "headShot": "bkr202412495130.jpg",
+              "buskerName": "陳韻如",
+              "buskerStageName": "Asa",
+              "performancetype": "Visual Arts",
+              "performanceItem": "繪畫,",
+              "performanceSubItem": "Q版漫畫/似顏繪,",
+              "project": "",
+              "projectdesc": "互動Q版人像塗鴉速畫\n與民眾溝通及聊天創作出屬於其風格的塗鴉創作",
+              "performanceContent": "Q版漫畫/似顏繪,",
               "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
@@ -19015,24 +18887,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr202412495130.jpg",
-              "buskerName": "陳韻如",
-              "buskerStageName": "Asa",
-              "performancetype": "Visual Arts",
-              "performanceItem": "繪畫,",
-              "performanceSubItem": "Q版漫畫/似顏繪,",
-              "project": "",
-              "projectdesc": "互動Q版人像塗鴉速畫\n與民眾溝通及聊天創作出屬於其風格的塗鴉創作",
-              "performanceContent": "Q版漫畫/似顏繪,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr20243200262_6.jpeg",
               "buskerName": "何闊光",
               "buskerStageName": null,
@@ -19042,13 +18896,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "永生花、乾燥花之插花設計",
               "projectdesc": "永生花、乾燥花之插花設計",
               "performanceContent": "永生花、乾燥花之插花設計",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -19065,15 +18919,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20243200262_6.jpeg",
-              "buskerName": "何闊光",
-              "buskerStageName": null,
-              "performancetype": "Craft Arts",
-              "performanceItem": "其他-工藝藝術類,",
-              "performanceSubItem": "",
-              "project": "永生花、乾燥花之插花設計",
-              "projectdesc": "永生花、乾燥花之插花設計",
-              "performanceContent": "永生花、乾燥花之插花設計",
+              "headShot": "bkr202562314148.jpg",
+              "buskerName": "江曉群",
+              "buskerStageName": "阿普蕾一號",
+              "performancetype": "Performing Arts、Visual Arts、Craft Arts",
+              "performanceItem": "歌唱或口技類,其他-表演藝術類,繪畫,創意手作,",
+              "performanceSubItem": "歌唱,相聲,說唱,詩歌朗誦/說故事,脫口秀,Q版漫畫/似顏繪,素描,彩繪,燒烙畫,複合媒材飾品工藝,鋁線創作,",
+              "project": "羊毛氈手作品",
+              "projectdesc": "表演藝術類：脫口秀、漫才、說書、相聲、唱歌、阿卡貝拉。\r\n視覺藝術類 ： 插畫、人像畫、立體畫、 個人標誌設計、 手繪本設計。\r\n工藝藝術類 ：飾品/吊飾、石/木繪、手繪包、鐵/鋁線裝置藝術品、羊毛氈手作品。",
+              "performanceContent": "Q版漫畫/似顏繪,素描,彩繪,燒烙畫,複合媒材飾品工藝,鋁線創作,",
               "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
@@ -19084,24 +18938,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr202562314148.jpg",
-              "buskerName": "江曉群",
-              "buskerStageName": "阿普蕾一號",
-              "performancetype": "Performing Arts、Visual Arts、Craft Arts",
-              "performanceItem": "歌唱或口技類,其他-表演藝術類,繪畫,創意手作,",
-              "performanceSubItem": "歌唱,相聲,說唱,詩歌朗誦/說故事,脫口秀,Q版漫畫/似顏繪,素描,彩繪,燒烙畫,複合媒材飾品工藝,鋁線創作,",
-              "project": "羊毛氈手作品",
-              "projectdesc": "表演藝術類：脫口秀、漫才、說書、相聲、唱歌、阿卡貝拉。\r\n視覺藝術類 ： 插畫、人像畫、立體畫、 個人標誌設計、 手繪本設計。\r\n工藝藝術類 ：飾品/吊飾、石/木繪、手繪包、鐵/鋁線裝置藝術品、羊毛氈手作品。",
-              "performanceContent": "Q版漫畫/似顏繪,素描,彩繪,燒烙畫,複合媒材飾品工藝,鋁線創作,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr202412495130.jpg",
               "buskerName": "陳韻如",
               "buskerStageName": "Asa",
@@ -19111,13 +18947,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "互動Q版人像塗鴉速畫\n與民眾溝通及聊天創作出屬於其風格的塗鴉創作",
               "performanceContent": "Q版漫畫/似顏繪,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -22989,25 +22825,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "17:30",
           "artists": [
             {
-              "headShot": "bkr20260613230001.jpg",
-              "buskerName": "于欣佑",
-              "buskerStageName": null,
-              "performancetype": "Craft Arts",
-              "performanceItem": "其他-工藝藝術類,",
-              "performanceSubItem": "",
-              "project": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "projectdesc": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "performanceContent": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": "bkr2025211141024.jpg",
               "buskerName": "劉世淵",
               "buskerStageName": "飾飾如藝",
@@ -23017,15 +22834,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "創意飾品與手繪幸福圖騰與藝術創作\n想藉由金屬複合媒材串起無限可能創作，發揮自由想像完成作品，利用天然石（素材）種子、不同技法表現創意，紀念商品。也可以在石頭上雕刻或彩繪、圖案或文字搭配，做成各式裝飾物品，圖形符號或文字藝術，親手繪製或淺刻速寫在不同物品、風格的塗鴉創作，勾勒當下美好的回憶。",
               "performanceContent": "彩繪,複合媒材飾品工藝,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
+              "isStar": false
             }
-          ]
+          ],
+          "waitlist": []
         },
         {
           "placeRid": 1,
@@ -24858,24 +24675,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr2026415204334_6.jpg",
-              "buskerName": "陳威宇",
-              "buskerStageName": "雨和",
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,弦樂器類,",
-              "performanceSubItem": "歌唱,吉他,",
-              "project": "",
-              "projectdesc": "歌唱,吉他彈唱",
-              "performanceContent": "歌唱,",
-              "bulletinRank": 2,
-              "viewname": 2,
-              "isGroup": null,
-              "placeRid": 104,
-              "district": "信義區",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr202574142435.jpg",
               "buskerName": "魏子恒",
               "buskerStageName": "魏軫",
@@ -24885,13 +24684,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "吉他、歌唱",
               "performanceContent": "吉他,歌唱,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 104,
               "district": "信義區",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -28689,15 +28488,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20243200262_6.jpeg",
-              "buskerName": "何闊光",
+              "headShot": "bkr20260613230001.jpg",
+              "buskerName": "于欣佑",
               "buskerStageName": null,
               "performancetype": "Craft Arts",
               "performanceItem": "其他-工藝藝術類,",
               "performanceSubItem": "",
-              "project": "永生花、乾燥花之插花設計",
-              "projectdesc": "永生花、乾燥花之插花設計",
-              "performanceContent": "永生花、乾燥花之插花設計",
+              "project": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
+              "projectdesc": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
+              "performanceContent": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
               "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
@@ -28708,24 +28507,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr20260613230001.jpg",
-              "buskerName": "于欣佑",
-              "buskerStageName": null,
-              "performancetype": "Craft Arts",
-              "performanceItem": "其他-工藝藝術類,",
-              "performanceSubItem": "",
-              "project": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "projectdesc": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "performanceContent": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr2025314141314.jpg",
               "buskerName": "林朱音",
               "buskerStageName": null,
@@ -28735,13 +28516,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "視覺藝術類：素描、粉彩、水彩、油畫、壓克力、彩繪紙粘土、面具、T恤，牛仔衣服、褲子,手作飾品",
               "performanceContent": "Q版漫畫/似顏繪,水彩,油畫,粉彩,素描,彩繪,攝影,金屬工藝,編織,複合媒材飾品工藝,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
