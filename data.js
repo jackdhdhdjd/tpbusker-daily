@@ -1,6 +1,6 @@
 window.INITIAL_BUSKER_FULL_DATA = {
   "isSuccess": true,
-  "updatedAt": "2026-11-13T00:52:12.239270",
+  "updatedAt": "2026-11-13T12:56:04.345163",
   "place": {
     "placeRid": "ALL",
     "placeName": "臺北市雙商圈全覽（西門町 ＋ 信義區）",
@@ -1551,6 +1551,34 @@ window.INITIAL_BUSKER_FULL_DATA = {
       "placetimeSort": 3,
       "placetimeH": 1,
       "placetimeBustar": null
+    },
+    {
+      "placetimeRid": 194,
+      "placetimeDel": 0,
+      "placetimeState": null,
+      "placetimePlacerid": 1,
+      "placetimeLocationrid": null,
+      "placetimeName": "下午1330-1730街藝之星限定",
+      "placetimeStime": "13:30",
+      "placetimeEtime": "17:30",
+      "placetimeDesc": null,
+      "placetimeSort": 4,
+      "placetimeH": 1,
+      "placetimeBustar": 0
+    },
+    {
+      "placetimeRid": 195,
+      "placetimeDel": 0,
+      "placetimeState": null,
+      "placetimePlacerid": 1,
+      "placetimeLocationrid": null,
+      "placetimeName": "下午1800-2200街藝之星限定",
+      "placetimeStime": "18:00",
+      "placetimeEtime": "22:00",
+      "placetimeDesc": null,
+      "placetimeSort": 5,
+      "placetimeH": 1,
+      "placetimeBustar": 0
     }
   ],
   "daily": {
@@ -9226,25 +9254,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr202521911357.jpg",
-              "buskerName": "林柏廷",
-              "buskerStageName": "阿奇",
-              "performancetype": "Visual Arts",
-              "performanceItem": "繪畫,",
-              "performanceSubItem": "Q版漫畫/似顏繪,",
-              "project": "",
-              "projectdesc": "將人物以漫畫的手法表現，現像繪製",
-              "performanceContent": "Q版漫畫/似顏繪,",
-              "bulletinRank": 1,
-              "viewname": 2,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": "bkr202562314420.jpg",
               "buskerName": "劉昕杰",
               "buskerStageName": "阿普蕾一號",
@@ -9254,14 +9263,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "羊毛氈手作品",
               "projectdesc": "表演藝術類：脫口秀、漫才、說書、相聲、唱歌、阿卡貝拉。\r\n視覺藝術類 ： 插畫、人像畫、立體畫、 個人標誌設計、 手繪本設計。\r\n工藝藝術類 ：飾品/吊飾、石/木繪、手繪包、鐵/鋁線裝置藝術品、羊毛氈手作品。",
               "performanceContent": "素描,彩繪,Q版漫畫/似顏繪,複合媒材飾品工藝,燒烙畫,鋁線創作,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
+              "isStar": false
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr202562314148.jpg",
               "buskerName": "江曉群",
@@ -9272,13 +9282,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "羊毛氈手作品",
               "projectdesc": "表演藝術類：脫口秀、漫才、說書、相聲、唱歌、阿卡貝拉。\r\n視覺藝術類 ： 插畫、人像畫、立體畫、 個人標誌設計、 手繪本設計。\r\n工藝藝術類 ：飾品/吊飾、石/木繪、手繪包、鐵/鋁線裝置藝術品、羊毛氈手作品。",
               "performanceContent": "Q版漫畫/似顏繪,素描,彩繪,燒烙畫,複合媒材飾品工藝,鋁線創作,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -25240,25 +25250,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20241224142024.jpg",
-              "buskerName": "張佳琪",
-              "buskerStageName": "Nasume娜蘇米",
-              "performancetype": "Craft Arts",
-              "performanceItem": "創意手作,",
-              "performanceSubItem": "複合媒材飾品工藝,鋁線創作,金屬工藝,",
-              "project": "",
-              "projectdesc": "金屬雕塑結合花藝作品\n現場鋁線折字(中文、英文、日文、韓文)，鋁線造形鑰匙圈、客製化服務指定樣式、飾品設計(項鍊、手鋉、耳環等)、文具用品創作(迴紋針、名片架、文件夾等)。金屬造形結合花藝作品。",
-              "performanceContent": "複合媒材飾品工藝,鋁線創作,金屬工藝,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": "bkr20260529152917_6.jpeg",
               "buskerName": "楊竣富",
               "buskerStageName": "富",
@@ -25268,14 +25259,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "現場客制化插畫似顏繪",
               "performanceContent": "Q版漫畫/似顏繪,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
+              "isStar": false
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr20260727003510_6.png",
               "buskerName": "江志煌",
@@ -25286,13 +25278,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "現場畫Q版人像，並結合趣味魔術互動與民眾交流。",
               "performanceContent": "Q版漫畫/似顏繪,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -26564,25 +26556,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20241224142024.jpg",
-              "buskerName": "張佳琪",
-              "buskerStageName": "Nasume娜蘇米",
-              "performancetype": "Craft Arts",
-              "performanceItem": "創意手作,",
-              "performanceSubItem": "複合媒材飾品工藝,鋁線創作,金屬工藝,",
-              "project": "",
-              "projectdesc": "金屬雕塑結合花藝作品\n現場鋁線折字(中文、英文、日文、韓文)，鋁線造形鑰匙圈、客製化服務指定樣式、飾品設計(項鍊、手鋉、耳環等)、文具用品創作(迴紋針、名片架、文件夾等)。金屬造形結合花藝作品。",
-              "performanceContent": "複合媒材飾品工藝,鋁線創作,金屬工藝,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": "bkr20260727003510_6.png",
               "buskerName": "江志煌",
               "buskerStageName": "💛蝗蟲哥哥",
@@ -26592,14 +26565,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "現場畫Q版人像，並結合趣味魔術互動與民眾交流。",
               "performanceContent": "Q版漫畫/似顏繪,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
+              "isStar": false
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr202531042653_6.jpg",
               "buskerName": "林永田",
@@ -26610,13 +26584,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "膠管(造型鑰匙圈)",
               "performanceContent": "複合媒材飾品工藝,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
