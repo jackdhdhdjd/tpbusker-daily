@@ -1,6 +1,6 @@
 window.INITIAL_BUSKER_FULL_DATA = {
   "isSuccess": true,
-  "updatedAt": "2026-11-14T00:38:10.022773",
+  "updatedAt": "2026-11-14T11:59:31.583531",
   "place": {
     "placeRid": "ALL",
     "placeName": "臺北市雙商圈全覽（西門町 ＋ 信義區）",
@@ -9929,13 +9929,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20260729163000.jpg",
-              "buskerName": "吳昭壅",
-              "buskerStageName": null,
+              "headShot": "bkr2025212102253.jpg",
+              "buskerName": "蔡志遠",
+              "buskerStageName": "西裝Beating",
               "performancetype": "Performing Arts",
               "performanceItem": "歌唱或口技類,弦樂器類,",
               "performanceSubItem": "歌唱,吉他,",
-              "project": null,
+              "project": "",
               "projectdesc": "吉他、歌唱",
               "performanceContent": "歌唱,吉他,",
               "bulletinRank": 1,
@@ -9948,24 +9948,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr2025212102253.jpg",
-              "buskerName": "蔡志遠",
-              "buskerStageName": "西裝Beating",
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,弦樂器類,",
-              "performanceSubItem": "歌唱,吉他,",
-              "project": "",
-              "projectdesc": "吉他、歌唱",
-              "performanceContent": "歌唱,吉他,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 104,
-              "district": "信義區",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr20259310144.jpg",
               "buskerName": "華葦奇",
               "buskerStageName": null,
@@ -9975,13 +9957,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "歌唱",
               "performanceContent": "歌唱,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 104,
               "district": "信義區",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -21951,26 +21933,7 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "isStar": false
             }
           ],
-          "waitlist": [
-            {
-              "headShot": "bkr20260729163000.jpg",
-              "buskerName": "吳昭壅",
-              "buskerStageName": null,
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,弦樂器類,",
-              "performanceSubItem": "歌唱,吉他,",
-              "project": null,
-              "projectdesc": "吉他、歌唱",
-              "performanceContent": "歌唱,吉他,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 104,
-              "district": "信義區",
-              "isStar": false,
-              "waitlistRank": "備1"
-            }
-          ]
+          "waitlist": []
         },
         {
           "placeRid": 104,
