@@ -1,6 +1,6 @@
 window.INITIAL_BUSKER_FULL_DATA = {
   "isSuccess": true,
-  "updatedAt": "2026-11-18T02:00:40.419479",
+  "updatedAt": "2026-11-18T13:44:59.335586",
   "place": {
     "placeRid": "ALL",
     "placeName": "臺北市雙商圈全覽（西門町 ＋ 信義區）",
@@ -6913,23 +6913,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "isStar": false
             },
             {
-              "headShot": "bkr202551294448.jpg",
-              "buskerName": "黃譯民",
-              "buskerStageName": "香蕉哥",
-              "performancetype": "Performing Arts",
-              "performanceItem": "戲劇類,其他-表演藝術類,",
-              "performanceSubItem": "默劇,氣球秀,魔術,",
-              "project": "",
-              "projectdesc": "魔術默劇氣球秀 融合魔術.默劇.氣球的表演,",
-              "performanceContent": "默劇,氣球秀,魔術,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 104,
-              "district": "信義區",
-              "isStar": false
-            },
-            {
               "headShot": "bkr2026112173822.jpg",
               "buskerName": "李泓霖",
               "buskerStageName": null,
@@ -6945,9 +6928,7 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "placeRid": 104,
               "district": "信義區",
               "isStar": false
-            }
-          ],
-          "waitlist": [
+            },
             {
               "headShot": "bkr20254811395.jpg",
               "buskerName": "蔡宏義",
@@ -6958,14 +6939,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "特技晃管、跑酷翻滾",
               "projectdesc": "特技倒立、特技晃管、立方體、水流星、特技大鐵環、跑酷翻滾",
               "performanceContent": "流星球,倒立,大環,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 104,
               "district": "信義區",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
+              "isStar": false
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr202577175454.jpg",
               "buskerName": "艾安德",
@@ -6976,13 +6958,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "平衡晃管",
               "projectdesc": "特技(平衡晃管)",
               "performanceContent": "平衡晃管",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 104,
               "district": "信義區",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -13609,15 +13591,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "17:30",
           "artists": [
             {
-              "headShot": "bkr202582595025.jpg",
-              "buskerName": "徐浩偉",
-              "buskerStageName": "肯特先生",
-              "performancetype": "Visual Arts",
-              "performanceItem": "其他-視覺藝術類,繪畫,",
-              "performanceSubItem": "Q版漫畫/似顏繪,素描,",
+              "headShot": "bkr20241224142024.jpg",
+              "buskerName": "張佳琪",
+              "buskerStageName": "Nasume娜蘇米",
+              "performancetype": "Craft Arts",
+              "performanceItem": "創意手作,",
+              "performanceSubItem": "複合媒材飾品工藝,鋁線創作,金屬工藝,",
               "project": "",
-              "projectdesc": "漫畫、Q版、似顏繪、素描人像等現場繪製",
-              "performanceContent": "Q版漫畫/似顏繪,素描,",
+              "projectdesc": "金屬雕塑結合花藝作品\n現場鋁線折字(中文、英文、日文、韓文)，鋁線造形鑰匙圈、客製化服務指定樣式、飾品設計(項鍊、手鋉、耳環等)、文具用品創作(迴紋針、名片架、文件夾等)。金屬造形結合花藝作品。",
+              "performanceContent": "複合媒材飾品工藝,鋁線創作,金屬工藝,",
               "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
@@ -13628,24 +13610,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr20241224142024.jpg",
-              "buskerName": "張佳琪",
-              "buskerStageName": "Nasume娜蘇米",
-              "performancetype": "Craft Arts",
-              "performanceItem": "創意手作,",
-              "performanceSubItem": "複合媒材飾品工藝,鋁線創作,金屬工藝,",
-              "project": "",
-              "projectdesc": "金屬雕塑結合花藝作品\n現場鋁線折字(中文、英文、日文、韓文)，鋁線造形鑰匙圈、客製化服務指定樣式、飾品設計(項鍊、手鋉、耳環等)、文具用品創作(迴紋針、名片架、文件夾等)。金屬造形結合花藝作品。",
-              "performanceContent": "複合媒材飾品工藝,鋁線創作,金屬工藝,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr2025212102718.jpg",
               "buskerName": "何永欽",
               "buskerStageName": "阿嚕咪",
@@ -13655,13 +13619,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "鋁線折字、金屬工藝、手作串珠、複合媒材創意飾品/吊飾",
               "performanceContent": "鋁線創作,金屬工藝,複合媒材飾品工藝,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
