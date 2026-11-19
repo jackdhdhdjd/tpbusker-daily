@@ -1,6 +1,6 @@
 window.INITIAL_BUSKER_FULL_DATA = {
   "isSuccess": true,
-  "updatedAt": "2026-11-19T01:38:32.712170",
+  "updatedAt": "2026-11-19T14:13:16.557652",
   "place": {
     "placeRid": "ALL",
     "placeName": "臺北市雙商圈全覽（西門町 ＋ 信義區）",
@@ -14668,23 +14668,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20260626183000.jpg",
-              "buskerName": "譚凱馨",
-              "buskerStageName": null,
-              "performancetype": "Performing Arts",
-              "performanceItem": "特技類,舞蹈類,",
-              "performanceSubItem": "轉傘,轉毯,舞蹈,",
-              "project": null,
-              "projectdesc": "蹬傘、轉毯、特技舞蹈",
-              "performanceContent": "轉傘,轉毯,舞蹈,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            },
-            {
               "headShot": "bkr202648143112.jpg",
               "buskerName": "賴柏儒",
               "buskerStageName": "小儒",
@@ -14717,9 +14700,7 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "placeRid": 1,
               "district": "西門町",
               "isStar": false
-            }
-          ],
-          "waitlist": [
+            },
             {
               "headShot": "bkr20260723220000.jpg",
               "buskerName": "林芷綺",
@@ -14730,14 +14711,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "蹬鼓",
               "projectdesc": "轉毯、呼拉圈、蹬鼓、扯鈴、雜技",
               "performanceContent": "轉毯,花式呼拉圈,花式扯鈴,雜耍,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
+              "isStar": false
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr202542414595.jpg",
               "buskerName": "黃祿仁",
@@ -14748,13 +14730,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "魔術、菱字體(立方體)、特技舞蹈、默劇、雜技、大環、歌唱、特技",
               "performanceContent": "魔術,舞蹈,大環,歌唱,雜耍,默劇,立方體,特技/花式武術,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -19196,24 +19178,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr20260618141523_6.jpg",
-              "buskerName": "林宥丞",
-              "buskerStageName": "Yoson",
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,弦樂器類,",
-              "performanceSubItem": "歌唱,吉他,",
-              "project": "",
-              "projectdesc": "吉他彈唱，一邊彈吉他、一邊唱歌，並將吉他聲與人聲一同由音響播放出來，當然有時候不用音響也是可以的。",
-              "performanceContent": "歌唱,吉他,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 104,
-              "district": "信義區",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "ba99d4a6-23f0-408b-8aee-a823fb984c56.jpg",
               "buskerName": "曹瑋傑",
               "buskerStageName": "花昊月",
@@ -19223,13 +19187,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "歌唱，卡祖笛吹奏",
               "performanceContent": "歌唱,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 104,
               "district": "信義區",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
