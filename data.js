@@ -1,6 +1,6 @@
 window.INITIAL_BUSKER_FULL_DATA = {
   "isSuccess": true,
-  "updatedAt": "2026-11-20T01:37:09.263830",
+  "updatedAt": "2026-11-20T13:55:26.782453",
   "place": {
     "placeRid": "ALL",
     "placeName": "臺北市雙商圈全覽（西門町 ＋ 信義區）",
@@ -12594,26 +12594,7 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "isStar": false
             }
           ],
-          "waitlist": [
-            {
-              "headShot": "bkr2025113102129.jpg",
-              "buskerName": "羅文伶",
-              "buskerStageName": "小薇",
-              "performancetype": "Craft Arts",
-              "performanceItem": "創意手作,",
-              "performanceSubItem": "複合媒材飾品工藝,",
-              "project": "",
-              "projectdesc": "複合媒材飾品設計",
-              "performanceContent": "複合媒材飾品工藝,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            }
-          ]
+          "waitlist": []
         },
         {
           "placeRid": 1,
@@ -13767,25 +13748,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr2025113102129.jpg",
-              "buskerName": "羅文伶",
-              "buskerStageName": "小薇",
-              "performancetype": "Craft Arts",
-              "performanceItem": "創意手作,",
-              "performanceSubItem": "複合媒材飾品工藝,",
-              "project": "",
-              "projectdesc": "複合媒材飾品設計",
-              "performanceContent": "複合媒材飾品工藝,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": "bkr2025612134310.jpg",
               "buskerName": "張陸治",
               "buskerStageName": "Lc",
@@ -13795,14 +13757,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "Caricature誇飾畫",
               "projectdesc": "Caricature 誇飾畫、肖像繪圖",
               "performanceContent": "Q版漫畫/似顏繪,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
+              "isStar": false
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr202512314423.jpg",
               "buskerName": "劉佳鑫",
@@ -13813,13 +13776,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "針織刺繡工藝",
               "projectdesc": "視覺藝術類： 似顏繪   \r\n工藝藝術類： 寵物木刻及皮雕、手繪包(皮燒工藝)、針織刺繡工藝。",
               "performanceContent": "Q版漫畫/似顏繪,燒烙畫,木雕,皮雕,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -16240,25 +16203,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr2025113102129.jpg",
-              "buskerName": "羅文伶",
-              "buskerStageName": "小薇",
-              "performancetype": "Craft Arts",
-              "performanceItem": "創意手作,",
-              "performanceSubItem": "複合媒材飾品工藝,",
-              "project": "",
-              "projectdesc": "複合媒材飾品設計",
-              "performanceContent": "複合媒材飾品工藝,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": "bkr202641235453_6.jpeg",
               "buskerName": "陳智剛",
               "buskerStageName": "哇欸心喵喵",
@@ -16268,14 +16212,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "木畫雕刻肖像：（確認現場製作提供手機照片從接單到製作完成約5-15分鐘）",
               "performanceContent": "燒烙畫,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
+              "isStar": false
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr2025612134310.jpg",
               "buskerName": "張陸治",
@@ -16286,13 +16231,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "Caricature誇飾畫",
               "projectdesc": "Caricature 誇飾畫、肖像繪圖",
               "performanceContent": "Q版漫畫/似顏繪,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -17411,24 +17356,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "district": "西門町",
               "isStar": false,
               "waitlistRank": "備1"
-            },
-            {
-              "headShot": "bkr2025113102129.jpg",
-              "buskerName": "羅文伶",
-              "buskerStageName": "小薇",
-              "performancetype": "Craft Arts",
-              "performanceItem": "創意手作,",
-              "performanceSubItem": "複合媒材飾品工藝,",
-              "project": "",
-              "projectdesc": "複合媒材飾品設計",
-              "performanceContent": "複合媒材飾品工藝,",
-              "bulletinRank": 3,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備2"
             }
           ]
         },
@@ -20324,25 +20251,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "17:30",
           "artists": [
             {
-              "headShot": "bkr2025113102129.jpg",
-              "buskerName": "羅文伶",
-              "buskerStageName": "小薇",
-              "performancetype": "Craft Arts",
-              "performanceItem": "創意手作,",
-              "performanceSubItem": "複合媒材飾品工藝,",
-              "project": "",
-              "projectdesc": "複合媒材飾品設計",
-              "performanceContent": "複合媒材飾品工藝,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": "bkr2025612134310.jpg",
               "buskerName": "張陸治",
               "buskerStageName": "Lc",
@@ -20352,15 +20260,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "Caricature誇飾畫",
               "projectdesc": "Caricature 誇飾畫、肖像繪圖",
               "performanceContent": "Q版漫畫/似顏繪,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
+              "isStar": false
             }
-          ]
+          ],
+          "waitlist": []
         },
         {
           "placeRid": 1,
