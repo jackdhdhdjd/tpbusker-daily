@@ -1,6 +1,6 @@
 window.INITIAL_BUSKER_FULL_DATA = {
   "isSuccess": true,
-  "updatedAt": "2026-11-22T00:02:58.935775",
+  "updatedAt": "2026-11-22T13:10:17.300898",
   "place": {
     "placeRid": "ALL",
     "placeName": "臺北市雙商圈全覽（西門町 ＋ 信義區）",
@@ -2931,13 +2931,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "17:30",
           "artists": [
             {
-              "headShot": "bkr20241112223837_6.jpeg",
+              "headShot": "bkr20261122180000.jpg",
               "buskerName": "張𥣞籈",
               "buskerStageName": "Yangjinma張語卿",
               "performancetype": "Performing Arts",
               "performanceItem": "弦樂器類,",
               "performanceSubItem": "小提琴,",
-              "project": "",
+              "project": null,
               "projectdesc": "電小提琴/聲學小提琴演奏(含伴奏帶)",
               "performanceContent": "小提琴,",
               "bulletinRank": 1,
@@ -4488,13 +4488,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20241112223837_6.jpeg",
+              "headShot": "bkr20261122180000.jpg",
               "buskerName": "張𥣞籈",
               "buskerStageName": "Yangjinma張語卿",
               "performancetype": "Performing Arts",
               "performanceItem": "弦樂器類,",
               "performanceSubItem": "小提琴,",
-              "project": "",
+              "project": null,
               "projectdesc": "電小提琴/聲學小提琴演奏(含伴奏帶)",
               "performanceContent": "小提琴,",
               "bulletinRank": 1,
@@ -9382,13 +9382,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20241112223837_6.jpeg",
+              "headShot": "bkr20261122180000.jpg",
               "buskerName": "張𥣞籈",
               "buskerStageName": "Yangjinma張語卿",
               "performancetype": "Performing Arts",
               "performanceItem": "弦樂器類,",
               "performanceSubItem": "小提琴,",
-              "project": "",
+              "project": null,
               "projectdesc": "電小提琴/聲學小提琴演奏(含伴奏帶)",
               "performanceContent": "小提琴,",
               "bulletinRank": 1,
@@ -12807,12 +12807,12 @@ window.INITIAL_BUSKER_FULL_DATA = {
     "2026-11-26": {
       "date": "2026-11-26",
       "stats": {
-        "totalSlots": 21,
-        "totalArtists": 27,
-        "artistsWithPhoto": 26,
+        "totalSlots": 20,
+        "totalArtists": 26,
+        "artistsWithPhoto": 25,
         "starArtists": 0,
         "ximenArtists": 13,
-        "xinyiArtists": 14
+        "xinyiArtists": 13
       },
       "schedule": [
         {
@@ -13329,38 +13329,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "waitlistRank": "備2"
             }
           ]
-        },
-        {
-          "placeRid": 104,
-          "district": "信義區",
-          "isStar": false,
-          "venueRid": 320,
-          "venueName": "L點-表演藝術類(不含爵士鼓類等鼓類)",
-          "venueSubname": "微風松高和A11之間信義香堤廣場右側",
-          "timeRid": 172,
-          "timeName": "晚上1800-2200",
-          "timeStart": "18:00",
-          "timeEnd": "22:00",
-          "artists": [
-            {
-              "headShot": "bkr20241112223837_6.jpeg",
-              "buskerName": "張𥣞籈",
-              "buskerStageName": "Yangjinma張語卿",
-              "performancetype": "Performing Arts",
-              "performanceItem": "弦樂器類,",
-              "performanceSubItem": "小提琴,",
-              "project": "",
-              "projectdesc": "電小提琴/聲學小提琴演奏(含伴奏帶)",
-              "performanceContent": "小提琴,",
-              "bulletinRank": 1,
-              "viewname": 2,
-              "isGroup": null,
-              "placeRid": 104,
-              "district": "信義區",
-              "isStar": false
-            }
-          ],
-          "waitlist": []
         },
         {
           "placeRid": 104,
@@ -17432,40 +17400,22 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr20265111569_6.jpeg",
-              "buskerName": "章譽馨",
-              "buskerStageName": "Taco",
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,弦樂器類,",
-              "performanceSubItem": "歌唱,吉他,",
-              "project": "",
-              "projectdesc": "歌唱、吉他",
-              "performanceContent": "歌唱,吉他,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
-              "headShot": "bkr20241112223837_6.jpeg",
+              "headShot": "bkr20261122180000.jpg",
               "buskerName": "張𥣞籈",
               "buskerStageName": "Yangjinma張語卿",
               "performancetype": "Performing Arts",
               "performanceItem": "弦樂器類,",
               "performanceSubItem": "小提琴,",
-              "project": "",
+              "project": null,
               "projectdesc": "電小提琴/聲學小提琴演奏(含伴奏帶)",
               "performanceContent": "小提琴,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -20965,13 +20915,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20241112223837_6.jpeg",
+              "headShot": "bkr20261122180000.jpg",
               "buskerName": "張𥣞籈",
               "buskerStageName": "Yangjinma張語卿",
               "performancetype": "Performing Arts",
               "performanceItem": "弦樂器類,",
               "performanceSubItem": "小提琴,",
-              "project": "",
+              "project": null,
               "projectdesc": "電小提琴/聲學小提琴演奏(含伴奏帶)",
               "performanceContent": "小提琴,",
               "bulletinRank": 1,
