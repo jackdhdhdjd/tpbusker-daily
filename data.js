@@ -1,6 +1,6 @@
 window.INITIAL_BUSKER_FULL_DATA = {
   "isSuccess": true,
-  "updatedAt": "2026-11-24T04:34:20.681977",
+  "updatedAt": "2026-11-24T15:38:52.033516",
   "place": {
     "placeRid": "ALL",
     "placeName": "臺北市雙商圈全覽（西門町 ＋ 信義區）",
@@ -6194,11 +6194,11 @@ window.INITIAL_BUSKER_FULL_DATA = {
     "2026-11-27": {
       "date": "2026-11-27",
       "stats": {
-        "totalSlots": 19,
-        "totalArtists": 24,
-        "artistsWithPhoto": 23,
+        "totalSlots": 18,
+        "totalArtists": 23,
+        "artistsWithPhoto": 22,
         "starArtists": 0,
-        "ximenArtists": 14,
+        "ximenArtists": 13,
         "xinyiArtists": 10
       },
       "schedule": [
@@ -7130,15 +7130,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20260613230001.jpg",
-              "buskerName": "于欣佑",
+              "headShot": "bkr20243200262_6.jpeg",
+              "buskerName": "何闊光",
               "buskerStageName": null,
               "performancetype": "Craft Arts",
               "performanceItem": "其他-工藝藝術類,",
               "performanceSubItem": "",
-              "project": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "projectdesc": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "performanceContent": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
+              "project": "永生花、乾燥花之插花設計",
+              "projectdesc": "永生花、乾燥花之插花設計",
+              "performanceContent": "永生花、乾燥花之插花設計",
               "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
@@ -7149,24 +7149,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr20243200262_6.jpeg",
-              "buskerName": "何闊光",
-              "buskerStageName": null,
-              "performancetype": "Craft Arts",
-              "performanceItem": "其他-工藝藝術類,",
-              "performanceSubItem": "",
-              "project": "永生花、乾燥花之插花設計",
-              "projectdesc": "永生花、乾燥花之插花設計",
-              "performanceContent": "永生花、乾燥花之插花設計",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr2025211141024.jpg",
               "buskerName": "劉世淵",
               "buskerStageName": "飾飾如藝",
@@ -7176,13 +7158,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "創意飾品與手繪幸福圖騰與藝術創作\n想藉由金屬複合媒材串起無限可能創作，發揮自由想像完成作品，利用天然石（素材）種子、不同技法表現創意，紀念商品。也可以在石頭上雕刻或彩繪、圖案或文字搭配，做成各式裝飾物品，圖形符號或文字藝術，親手繪製或淺刻速寫在不同物品、風格的塗鴉創作，勾勒當下美好的回憶。",
               "performanceContent": "彩繪,複合媒材飾品工藝,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -7254,38 +7236,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "waitlistRank": "備2"
             }
           ]
-        },
-        {
-          "placeRid": 1,
-          "district": "西門町",
-          "isStar": false,
-          "venueRid": 13,
-          "venueName": "7號點",
-          "venueSubname": "武昌街二段57號",
-          "timeRid": 2,
-          "timeName": "晚上1800-2200",
-          "timeStart": "18:00",
-          "timeEnd": "22:00",
-          "artists": [
-            {
-              "headShot": "bkr2025227141544.jpg",
-              "buskerName": "巫筱芳",
-              "buskerStageName": null,
-              "performancetype": "Performing Arts、Visual Arts、Craft Arts",
-              "performanceItem": "其他-表演藝術類,其他-工藝藝術類,繪畫,",
-              "performanceSubItem": "行動雕像,懸絲偶,Q版漫畫/似顏繪,",
-              "project": "手工製作人偶",
-              "projectdesc": "手偶、懸絲偶演出、行動雕像、現場圖像繪製、手工製作人偶",
-              "performanceContent": "Q版漫畫/似顏繪,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false
-            }
-          ],
-          "waitlist": []
         }
       ]
     },
@@ -7293,11 +7243,11 @@ window.INITIAL_BUSKER_FULL_DATA = {
       "date": "2026-11-28",
       "stats": {
         "totalSlots": 56,
-        "totalArtists": 64,
-        "artistsWithPhoto": 55,
+        "totalArtists": 65,
+        "artistsWithPhoto": 57,
         "starArtists": 3,
         "ximenArtists": 26,
-        "xinyiArtists": 38
+        "xinyiArtists": 39
       },
       "schedule": [
         {
@@ -8136,25 +8086,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": null,
-              "buskerName": "吳淩熙",
-              "buskerStageName": "熙熙",
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,",
-              "performanceSubItem": "歌唱,",
-              "project": "",
-              "projectdesc": "歌唱",
-              "performanceContent": "鍵盤彈唱",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 104,
-              "district": "信義區",
-              "isStar": false
-            }
-          ],
-          "waitlist": [
-            {
               "headShot": "bkr2026125214657_6.jpg",
               "buskerName": "洪乾桓",
               "buskerStageName": "Echo",
@@ -8164,14 +8095,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "歌唱、吉他",
               "performanceContent": "歌唱,吉他,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 2,
               "isGroup": null,
               "isGroupMember": true,
               "placeRid": 104,
               "district": "信義區",
-              "isStar": false,
-              "waitlistRank": "備1"
+              "isStar": false
             },
             {
               "headShot": "bkr20265111569_6.jpeg",
@@ -8183,15 +8113,16 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "歌唱、吉他",
               "performanceContent": "歌唱,吉他,",
-              "bulletinRank": 2,
+              "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
               "isGroupMember": true,
               "placeRid": 104,
               "district": "信義區",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
+              "isStar": false
+            }
+          ],
+          "waitlist": [
             {
               "headShot": "bkr20255211953.jpg",
               "buskerName": "王亦涵",
@@ -8202,13 +8133,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "唱歌、Keyboard鍵盤演奏",
               "performanceContent": "歌唱,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 104,
               "district": "信義區",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -9695,15 +9626,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "17:30",
           "artists": [
             {
-              "headShot": "bkr2025212102521.jpg",
-              "buskerName": "張明文",
-              "buskerStageName": "Alumi",
-              "performancetype": "Visual Arts、Craft Arts",
-              "performanceItem": "其他-視覺藝術類,其他-工藝藝術類,繪畫,創意手作,",
-              "performanceSubItem": "Q版漫畫/似顏繪,燒烙畫,編織,複合媒材飾品工藝,金屬工藝,",
+              "headShot": "bkr202582595025.jpg",
+              "buskerName": "徐浩偉",
+              "buskerStageName": "肯特先生",
+              "performancetype": "Visual Arts",
+              "performanceItem": "其他-視覺藝術類,繪畫,",
+              "performanceSubItem": "Q版漫畫/似顏繪,素描,",
               "project": "",
-              "projectdesc": "視覺藝術類：似顏繪\r\n工藝藝術類：金屬工藝、複合媒材手作創意飾品/吊飾、手作串珠、編織繩、木燒畫",
-              "performanceContent": "編織,複合媒材飾品工藝,金屬工藝,",
+              "projectdesc": "漫畫、Q版、似顏繪、素描人像等現場繪製",
+              "performanceContent": "Q版漫畫/似顏繪,素描,",
               "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
@@ -9714,24 +9645,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr202582595025.jpg",
-              "buskerName": "徐浩偉",
-              "buskerStageName": "肯特先生",
-              "performancetype": "Visual Arts",
-              "performanceItem": "其他-視覺藝術類,繪畫,",
-              "performanceSubItem": "Q版漫畫/似顏繪,素描,",
-              "project": "",
-              "projectdesc": "漫畫、Q版、似顏繪、素描人像等現場繪製",
-              "performanceContent": "Q版漫畫/似顏繪,素描,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr2024123110223.jpg",
               "buskerName": "葉芳誌",
               "buskerStageName": "US手工坊",
@@ -9741,13 +9654,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "金屬編織，鋁線創作\n用金屬線條創作出任何文字跟圖形，可以現場客製樂器，卡通圖案製作，造形線客製成名片架，裝飾品等等",
               "performanceContent": "金屬工藝,鋁線創作,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -10188,15 +10101,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "17:30",
           "artists": [
             {
-              "headShot": "bkr2025227141544.jpg",
-              "buskerName": "巫筱芳",
+              "headShot": "bkr2025314141314.jpg",
+              "buskerName": "林朱音",
               "buskerStageName": null,
-              "performancetype": "Performing Arts、Visual Arts、Craft Arts",
-              "performanceItem": "其他-表演藝術類,其他-工藝藝術類,繪畫,",
-              "performanceSubItem": "行動雕像,懸絲偶,Q版漫畫/似顏繪,",
-              "project": "手工製作人偶",
-              "projectdesc": "手偶、懸絲偶演出、行動雕像、現場圖像繪製、手工製作人偶",
-              "performanceContent": "Q版漫畫/似顏繪,",
+              "performancetype": "Visual Arts、Craft Arts",
+              "performanceItem": "繪畫,攝影,創意手作,",
+              "performanceSubItem": "Q版漫畫/似顏繪,水彩,油畫,粉彩,素描,彩繪,攝影,金屬工藝,編織,複合媒材飾品工藝,",
+              "project": "",
+              "projectdesc": "視覺藝術類：素描、粉彩、水彩、油畫、壓克力、彩繪紙粘土、面具、T恤，牛仔衣服、褲子,手作飾品",
+              "performanceContent": "Q版漫畫/似顏繪,水彩,油畫,粉彩,素描,彩繪,攝影,金屬工藝,編織,複合媒材飾品工藝,",
               "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
@@ -10207,24 +10120,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr2025314141314.jpg",
-              "buskerName": "林朱音",
-              "buskerStageName": null,
-              "performancetype": "Visual Arts、Craft Arts",
-              "performanceItem": "繪畫,攝影,創意手作,",
-              "performanceSubItem": "Q版漫畫/似顏繪,水彩,油畫,粉彩,素描,彩繪,攝影,金屬工藝,編織,複合媒材飾品工藝,",
-              "project": "",
-              "projectdesc": "視覺藝術類：素描、粉彩、水彩、油畫、壓克力、彩繪紙粘土、面具、T恤，牛仔衣服、褲子,手作飾品",
-              "performanceContent": "Q版漫畫/似顏繪,水彩,油畫,粉彩,素描,彩繪,攝影,金屬工藝,編織,複合媒材飾品工藝,",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr202552112440_6.png",
               "buskerName": "邱均",
               "buskerStageName": null,
@@ -10234,13 +10129,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "似顏繪插畫",
               "performanceContent": "Q版漫畫/似顏繪,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 0,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
@@ -13582,15 +13477,15 @@ window.INITIAL_BUSKER_FULL_DATA = {
           "timeEnd": "22:00",
           "artists": [
             {
-              "headShot": "bkr20260613230001.jpg",
-              "buskerName": "于欣佑",
+              "headShot": "bkr20243200262_6.jpeg",
+              "buskerName": "何闊光",
               "buskerStageName": null,
               "performancetype": "Craft Arts",
               "performanceItem": "其他-工藝藝術類,",
               "performanceSubItem": "",
-              "project": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "projectdesc": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
-              "performanceContent": "現場插花,包花,捧花設計工藝(乾燥花)、氣球花束",
+              "project": "永生花、乾燥花之插花設計",
+              "projectdesc": "永生花、乾燥花之插花設計",
+              "performanceContent": "永生花、乾燥花之插花設計",
               "bulletinRank": 1,
               "viewname": 0,
               "isGroup": null,
@@ -13601,24 +13496,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
           ],
           "waitlist": [
             {
-              "headShot": "bkr20243200262_6.jpeg",
-              "buskerName": "何闊光",
-              "buskerStageName": null,
-              "performancetype": "Craft Arts",
-              "performanceItem": "其他-工藝藝術類,",
-              "performanceSubItem": "",
-              "project": "永生花、乾燥花之插花設計",
-              "projectdesc": "永生花、乾燥花之插花設計",
-              "performanceContent": "永生花、乾燥花之插花設計",
-              "bulletinRank": 2,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 1,
-              "district": "西門町",
-              "isStar": false,
-              "waitlistRank": "備1"
-            },
-            {
               "headShot": "bkr2026112165817.jpg",
               "buskerName": "甯其正",
               "buskerStageName": "甯正在畫畫 NOW",
@@ -13628,13 +13505,13 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "project": "",
               "projectdesc": "街頭速畫美學，現場客製肖像漫畫、木雕電烙畫，黏土公仔捏塑、立體工藝。",
               "performanceContent": "素描,燒烙畫,黏土創作,",
-              "bulletinRank": 3,
+              "bulletinRank": 2,
               "viewname": 2,
               "isGroup": null,
               "placeRid": 1,
               "district": "西門町",
               "isStar": false,
-              "waitlistRank": "備2"
+              "waitlistRank": "備1"
             }
           ]
         },
