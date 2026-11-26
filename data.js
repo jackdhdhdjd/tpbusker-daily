@@ -1,6 +1,6 @@
 window.INITIAL_BUSKER_FULL_DATA = {
   "isSuccess": true,
-  "updatedAt": "2026-11-26T02:36:38.467045",
+  "updatedAt": "2026-11-26T14:50:39.700562",
   "place": {
     "placeRid": "ALL",
     "placeName": "臺北市雙商圈全覽（西門町 ＋ 信義區）",
@@ -9936,12 +9936,12 @@ window.INITIAL_BUSKER_FULL_DATA = {
     "2026-11-30": {
       "date": "2026-11-30",
       "stats": {
-        "totalSlots": 20,
-        "totalArtists": 25,
-        "artistsWithPhoto": 24,
+        "totalSlots": 19,
+        "totalArtists": 24,
+        "artistsWithPhoto": 23,
         "starArtists": 0,
         "ximenArtists": 14,
-        "xinyiArtists": 11
+        "xinyiArtists": 10
       },
       "schedule": [
         {
@@ -10081,38 +10081,6 @@ window.INITIAL_BUSKER_FULL_DATA = {
               "waitlistRank": "備2"
             }
           ]
-        },
-        {
-          "placeRid": 104,
-          "district": "信義區",
-          "isStar": false,
-          "venueRid": 305,
-          "venueName": "F點-表演藝術類(不含爵士鼓等鼓類)",
-          "venueSubname": "信義香堤廣場(鄰近新光三越A9)",
-          "timeRid": 172,
-          "timeName": "晚上1800-2200",
-          "timeStart": "18:00",
-          "timeEnd": "22:00",
-          "artists": [
-            {
-              "headShot": "bkr20261020180649_6.jpeg",
-              "buskerName": "涂緯麒",
-              "buskerStageName": "土耳其",
-              "performancetype": "Performing Arts",
-              "performanceItem": "歌唱或口技類,",
-              "performanceSubItem": "歌唱,",
-              "project": "",
-              "projectdesc": "在街頭進行歌唱演出",
-              "performanceContent": "歌唱,",
-              "bulletinRank": 1,
-              "viewname": 0,
-              "isGroup": null,
-              "placeRid": 104,
-              "district": "信義區",
-              "isStar": false
-            }
-          ],
-          "waitlist": []
         },
         {
           "placeRid": 104,
